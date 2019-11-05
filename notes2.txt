@@ -1,0 +1,144 @@
+ - Three types of muscles: cardiac, skeletal and smooth (muscles that surround the blood vessels allowing them to constrict or dilate) muscle
+ - Skeletal muscle:
+ 	- Types of contractions:
+ 		- isometric: no change in length of the muscle while tension is being developed.
+ 		- concentric: during tension development, muscle shortens. Most common type of contraction.
+ 		- eccentric: muscle is lengthening while tension is being developed
+ 	- Types of muscle fibres:
+ 		- Type 2x: power fibres. Recruited when require a lot of force like in jumping, sprinting, etc. These muscles fatigue rapidly because they rely on anaerobic pathways to produce glucose.
+ 		- Type 1: moderate force at a much slower rate. Recruited when we engage in submaximal exercise for extended period of time like cycling, distance running, etc. Slow to fatigue as long as there is ample fuel and use aerobic pathways.
+ 		- Type 2a: hybrid of Type 1 and Type 2x fibres.
+ 	- Motor unit: comprises of motor neuron and all the muscles that it enervates (muscles that the neuron drains energy from).
+ 	- During easy workouts, Type 1 fibres are recruited since they are slow to fatigue, and as the workload increases, Type 2a and Type 2x fibres are also recruited to help generate the force required.
+ 	- Muscle hypertrophy: increase in cross-sectional area of the muscle due to an increase in contractile proteins.
+
+- Respiratory system
+	- Responsibilities:
+		- Ensure that the partial pressure in our arteries is well maintained to allow adequate oxygen delivery to exercising muscles
+		- Eliminiate both metabolic and non-metabolic CO2 maintaining partial pressure of carbon-dioxide in our arteries
+		- Assist in the buffering of metabolic acids produced during intense exercise
+	- Oxygen transport
+		- First at sea level the pressure is 159mm Hg.
+		- Then when air enters the alveolar sacs in the lungs, the pressure drops to 105mm Hg.
+		- The oxygen is then transported to lung capilliaries where it binds the haemoglobin in RBCs (98% oxygen is bound to haemoglobin)
+		- This oxygen rich blood is transported to the heart.
+		- This blood is pumped out the the exercising muscles via blood vessels.
+		- Mitochondria in the muscles convert O2 to ATP.
+	- During exercise, decrease in pH level or metabolic acidosis, and increase in body temperature facilitate unloading of oxygen from haemoglobin to muscles
+	- Also, the pressure of O2 in muscles can decrease upto 20mm Hg leading to even greater unloading of oxygen off haemoglobin into muscle.
+	- Increase in RBC will improve O2 carrying capacity in blood. Occurs during endurance training.
+	- Second important role, is CO2 removal. Accumulation of CO2 in muscles and tissues can be toxic.
+	- Two pathways by which CO2 can be produced:
+		- Metabolic: Oxidative breakdown of macronutrients for ATP production. CO2 diffuses into blood and is transported to lungs for removal.
+		- Non-metabolic: Buffering of acids produced during a high-intensity exercise. To prevent muscles and blood from becoming too acidic, hydrogen ions are buffered by bicarbonate which is then converted to CO2. This CO2 is also transported to lungs for removal. This way, respiratory systems fulfils its third major role, acid-base regulation during exercise.
+	- Ventilation increases as intensity of exercise and thus the need to take in more oxygen and remove CO2 increases.
+	- Ways to increase ventilation:
+		- Increase tidal volume
+		- Increase breathing frequency
+	- More efficient to increase tidal volume than to increase breathing frequency. Allows greater time for gas exchange and less repeated exchange of air in physiological dead space in lungs plumbing.
+	- Increase in ventillation is controlled by both neural and humoral (chemical) mechanisms.
+	- At onset of exercise, controlled by neural mechanisms, and during submaximal steady-state exercise, controlled by humoral (blood-borne substances CO2, O2 and pH).
+	- Increase in lactic acid during exercise increases ventillation exponentially after some ventillatory threshold is reached.
+	- Valsalva maneuver can be lethal if done by older population so care must be taken when lifting heavy weights.
+	- Exercise-induced asthma occurs when the respiratory pathway is affected. Exercise-induced asthma can be due to following reasons:
+		- cold weather
+		- dry air
+		- air pollution
+		- high pollen counts
+		- respiratory infection
+		- chemicals such as chlorine, paint, fertilizers, etc.
+- Cardiovascular system
+	- Three main adjustments:
+		- increased cardiac output - increased pumping capacity of heart enhancing delivery of oxygen and fuel to working muscles
+		- increased muscle blood flow - blood vessels in muscles dilate increasing local blood flow
+		- decreased blood flow to kidneys, liver and gut - redirects or shunts blood flow to working muscles
+	- Cardiac output, Q = heart rate in beats per minute * stroke volume (amount of blood ejected by hear per beat)
+	- Ways to increase heartbeat:
+		- reduction of parasympathetic nervous system activity
+		- increase in sympathetic nervous system activity. Function of exercise intensity.
+		- increase of circulating Epinephrine hormone (adrenaline).
+	- The above are observed during "fight or flight" response too (when you are nervous).
+	- Stroke volume increases with exercise intensity but may plateau before reaching max.
+	- Fick equation: VO2 = cardiac output * arterialvenous O2 difference.
+	- Aretriovenous O2 difference (a-v O2 difference)
+		- difference between the amount of oxygen delivered by an artery to muscle and the amount of oxygen leaving the muscle on the venous side.
+		- two ways to increase:
+			- greater rate of O2 delivery accomplished by an increase in local muscle blood flow.
+			- greater rate of O2 utilization as mitochondria consumes greater amount of O2 for ATP production at higher workloads.
+	- Three ways to increase blood flow:
+		- increase cardiac output
+		- vasodilation of blood vessels in active muscles - smooth muscles surrounding the blood vessels relaxes allowing the blood vessels to expand
+		- vasoconstriction of blood vessles in less essential tissues (shunting)
+	- Local factors regulating muscle flow during exercise:
+		- decrease in PO2
+		- increase in PCO2
+		- increase in H+
+		- leads to relaxation of smooth muscles
+		- called, functional or active hyperemia.
+	- Systolic blood pressure increases steadily with increase in exercise intensity.
+	- Diastolic blood pressure remains stable.
+	- Endurance training results in improvements in all components of Fick equation.
+- Endocrine system
+	- a collection of glands that produce and secrete specific hormones into the blood.
+	- Pancreas is responsible for production and release of insulin and glucagon.
+	- Adrenal glands and particularly adrenal medulla produces epinephrine and norepinephrine which have multiple effects in regulation of many key physiological and biochemical adjustments made by body in response to exercise.
+	- Anterior pituitary gland releases growth hormone.
+	- Hormones
+		- Trace substances produced and secreted by endocrine glands which are carried in blood to various target tissues.
+		- At these target tissues, they regulate a variety of physiologic and metabolic functions.
+		- Circulate in blood thereby reaching all tissues of body.
+		- Works closely with nervous system to maintain homeostasis.
+	- Insulin
+		- Released and secreted from the beta cells in the pancreas.
+		- Responsive after a meal when the blood is rich in macronutrients. Elevation in blood glucose concentration is a major stimulation to its release.
+		- Ideally in adults, the blood glucose levels should be between 70 and 100 mg of glucose per 100 mL of blood.
+		- Insulin promotes muscle glycogen storage.
+		- At sub-maximal levels or intense exhaustive exercise, insulin level declines during exercise.
+		- Reduced blood flow and insulin level will minimize glucose uptake by inactive tissues and muscles. Thus glucose can be preferentially used by active tissues.
+		- Even though insulin levels drop as much as 50% during exercise when compared to rest, blood flow to the active muscles can increase 10-15 fold. Thus, the active muscles actually see more insulin during exercise.
+		- Insulin promotes glycogen storage in the liver. When blood glucose levels are high, as after a meal, insulin promotes glucose uptake by the liver for storage in the form of glycogen.
+	- Glucagon
+		- produced and secreated by the alpha cells in the pancreas.
+		- maintain blood glucose concentration when levels drop below normal as is the case between meals, fasting and exercise.
+		- activates liver glycogen breakdown resulting in release of newly formed glucose into the blood.
+		- stimulates gluconeogenesis in liver - allows liver to make glucose from non-carbohydrate precursors such as amino acids and fats.
+		- during prolonged exercise, glucagon levels rise to increase glucose output by liver to match the glucose uptake by active skeletal muscles.
+	- Epinephrine and Norepinephrine
+		- family of catecholamines
+		- commonly known as adrenaline and noradrenaline
+		- norepinephrine also serves as a major neurotransmitter for the sympathetic nervous system
+		- adrenal glands are located on top of kidney.
+		- When sympathetic nerve activity is increased, as during exercise, adrenal medulla releases epinephrine and norepinephrine into blood where these hormones will have tremendous impact on a number of biochemical and physiological adjustments necessary to sustain exercise.
+		- stress hormones
+		- greater the exercise intensity, greater the sympathetic nerve activity and greater is the epinephrine release.
+	- Growth hormone
+		- produced and secreted by anterious pituitary gland
+		- increased rate of protein synthesis in all tissues - increases amino acid uptake in cells
+		- rate of lipolysis and free fatty acids utilization
+			- increased mobilization of FFA from adipose tissue
+			- increased FFA beta-oxidation in mitochondria
+		- as exercise intensity increases, growth hormone secretion increases and remains high upto 1 hour post exercise.
+		- magnitude of growth hormone release from anterior pituitary gland decreases with advancing age.
+- Immune system
+	- Exercise affects both adaptive and innative immunity.
+	- Innative immunity (not covered)
+	- Adaptive immunity
+		- respond to specific infectious agent like flu virus
+		- has both humoral and cellular component
+		- humoral arm is responsible in making specific antibodies that circulate in the blood neutralizing infectious agents.
+		- cellular arm is responsible for making t-cells that can kill cells that have already been infected.
+	- Impact of exercise on immune system dependent on exercise intensity.
+		- moderate bout of exercise has a marginal effect on the immune system
+		- heavy intense exercise can transiently suppress immune function upto 3 hrs post exercise.
+		- Open-Window theory - for several hours aften an intense exercise your immune system is transiently suppressed.
+		- Infections can get a foot hold in this open window post exercise.
+	- Transient suppression center around several stress hormones
+		- cortisol (increase)
+		- epinephrine and norepinephrine (known to be immunosuppressive) (increase)
+		- body temperature (increase)
+	- Do not exercise when sick, immune system is suppressed with just one bout of exercise and doing more exercise will make this worse.
+	- Do not exercise if infected below head
+	- In case infected above head (simple head cold) then do light exercise as much as can be tolerated.
+	- Participation in moderate physical activity regularly will improve overall immunity.
+	- Moderate physical activity will improve immunity, but indulging repeatedly in high intensity training will have the opposite effect.
+	- Repeated stress can weaken the immune system.

@@ -1,0 +1,88 @@
+Books:
+1. Exercise Physiology: Theory and Application to Fitness and Performance. S.K. Powers and E.T. Howley. 10th edition. McGraw Hill publishers.
+2. Exercise Physiology: Nutrition, Energy, and Human Performance. W.D. McArdle, F.I. Catch and V.L. Catch. 7th edition. Lippincott Williams & Wilkins publishers.
+
+Principles in exercise physiology:
+1. Homeostasis:
+	- tendency of the body to maintain a stable internal environment for cells by narrowly regulating critical variables like pH or acid base balance, oxygen tension, blood glucose concentration, body temperature, etc.
+	- Any deviation from optimal adjustments makes the body to make adjustments so as to bring them back to normal.
+	- engaging in physical exercise is a disruptor of normal resting homeostasis
+2. Overload:
+	- if you habitually overload a system, it will respond and adapt.
+	- stress due to exercise makes the body to give an acute response and continuing to exercise the similar way for 3-5 times a week leads to chronic adaptation of stress caused due to regular exercise.
+3. Specificity:
+	- only the system or body part stressed will adapt.
+4. Reversibility:
+	- Whereas overloading will result in training adaptations, inactivity (or detraining) will result in a return to baseline.
+5. Individuality:
+	- While the physiological responses to a particular stimulus are largely predictable, the precise responses and adaptations will vary among individuals.
+
+Calorimetry:
+- measurement of heat production in calories
+- estimate individual's metabolic rate by estimating the rate of heat production
+- type of calorimetry:
+	- direct - make individual exercise in a chamber and monitor the heat released by his body using thermal sensing devices. But these chambers are very expensive for clinicians, researchers, etc.
+	- indirect - most common method. Specifically by measuring oxygen consumption.
+	- indirect method also allows to measure the amount of CO2 produced by the body.
+	- this value along with O2 consumption value allows us to calculate the respiratory exchange ratio (RER):
+		RER = VCO2 / VO2
+	- RER gives information about the type of fuel or substrate being used by the muscles during exercise
+
+Adrenosine Triophosphate (ATP):
+- the muscles' source of energy
+- breaking down of this molecule leads to release of large amount of energy to the cells so as to enable muscle contraction
+- only ATP can be directly used to supply energy needed for mechanical work of exercise
+- ATP levels need to be maintained during exercise
+- at rest, concentration of ATP in muscles is extremely low
+- key enzymes int ATP-producing pathways are activated during exercise. This is controlled by change in energy charge of cell.
+- Energy charge = ([ATP] + 0.5 * [ADP]) / ([ATP] + [AMP] + [ADP])
+- As energy charge decreases, the ATP generating pathways are activated.
+- mitochondira are responsible for ATP production both at rest and during exercise
+- ATP production pathways must be activated when we go from rest to exercise to match the ATP production with that of utilization
+- two types of activities:
+	- aerobic - which require ATP production and utilization both. Like those exercises which lasts for more than 10 minutes
+	- anaerobic - which immediately requires ATP and doesn't have time to wait for oxidation of macro-nutrients. Like fast exercises which lasts for several seconds.
+- immediate energy sources:
+	- ATP + H2O -> ADP (ATPase) + Pi
+	- CP (creatine kinase) + ADP -> ATP + C
+- Carbohydrate is the only macro nutrient that can be broken down aerobically and anaerobically (via glycolysis) to supply ATP
+- For aerobic activities, ATP comes from breakdown of carbohydrates and fats
+
+Carbohydrates:
+- stored majorly in muscles and liver
+- stored as glycogen which is series of glucose molecules attached to one another
+- muscle glycogen is used to supply glucose units for muscle energetics
+- liver glycogen is used to maintain blood glucose levels and this is critical as during exercise, muscle extracts glucose from the blood for fuel.
+- on average in body (avg. 154 pounds individual) there is about 2 kcal of carbohydrates (this is very less amount, not sufficient for prolonged exercise). In contrast to this fats on average is about 100000 kcal.
+- in aerobic activities, the key is to use fats as fuel to greater extent.
+- as amount of time for exercise increases, the preferred fuel shifts from fats to carbohydrates (this is called crossover) since, the fat amount is being consumed and is declining.
+- The activation of key enzymes in the pathways of glycogenolysis and glycolysis are regulated by multiple factors including hormones, intramuscular calcium levels, and the energy charge in working muscles.
+- Type 1 muscles fibres are recruited for submaximal steady-state exercise
+- Type 2 muscles fibres are recruited when great force and power are required
+- For intense exercise, blood glucose uptake increases rapidly and as long as glycogen stores hold down, liver does a remarkable job of maintaining blood glucose levels .preventing exercise induced hypoglycemia.
+- Breakdown of liver glycogen is regulated by pancreatic hormone, glucogon. Whereas breakdown of muscle glycogen is regulated by hormone, epinephirne.
+- To offset carbohydrate depletion:
+	- first, store glycogen (carbohydrates) prior exercise so as to avoid glycogen depletion and set fatigue.
+	- carbohydrate feeding - driking dilute carbohydrate liquids during exercise can help maintain blood glucose levels thereby sparing liver glycogen.
+- Lower RER clearly indicates that fats are being used to a greater extent after training.
+- Endurance training increases the number of mitochondria which in turns contributes to greater use of fats and burn carbohydrates aerobically. Both of these lead to carbohydrate sparing.
+
+Fats:
+- two types:
+	- Free Fatty Acids (FFA) - serve as immediate fuel source for cells. Produce ATP in mitrochondria via oxidation.
+	- Triglycerides or triacylglycerols - major storage form of fat (FFA) and thus a major source of fuel. Located in adipose tissue and muscle. FFAs are stored collectively in the form of triglycerides (similar to glucose in glycogen)
+- primary storage for triglycerides - adipose or fat cells and in skeletal muscles.
+- largest amount of triglycerides stored in adipose (100000 kcal)
+- second largest amount of triglycerides stored in skeletal muscles (2700 kcal) (also known as intramuscular triglycerides)
+
+Proteins:
+- small role but the main contribution comes after an exercise bout.
+- made up of amino acids
+- Essential amino acids cannot be made by the body - must come from dietary sources.
+- Non-essential amino acids can be synthesized within the body - so no dietary sources required.
+- To use proteins as fuel, they must be broken down to amino acids form. Amino acids can be converted to carbohydrates / fats.
+- Nitrogen balance - to measure the individuals dietary protein needs and their general whole body protein mechanism.
+- If input N2 is equal to excreted N2, then individual is said to have nitrogen balance and no changes in dietary protien intake to be made.
+- Protien requirements will be high during intense endurance training and heavy strength training.
+- During aerobic exercise, protein synthesis decreases but after exercises it rapidly increases.
+- When carbohydrates are low, their will be greater dependence on proteins for fuel. Proteins can supply 5-15% of fuel during exercise.
