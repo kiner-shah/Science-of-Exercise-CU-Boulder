@@ -1,0 +1,160 @@
+- Cardiovascular or endurance training
+	- These guidelines are for general population and not designed for elite endurance athletes
+	- Four major variables to be considered in optimizing adaptations
+		- frequency
+			- ideally be 3-5 days per week of moderate to vigorous exercise
+			- don't try to be weekend warrior (fridays, saturdays, sundays); workout on alternative days
+			- if one can exercise for only 3 days, exercise as vigorously as tolerated
+		- intensity
+			- guildelines are typically based on percentage of one's maximum hear rate
+			- 50-85% of heart rate reserve
+			- Heart rate reserve can be determined by subtracting the resting heart rate from your maximal heart rate
+			- if just starting an exercise or inactive for some period of time, best to start with lower heart rate ranges
+			- as one gets fit, he can increase target heart rate to higher ranges
+		- duration
+			- range dependent on exercise intensity and level of fitness
+			- 20-60 minutes of continuous aerobic activity; 20 mins minimum is recommended; as one gets fit, this duration can be increased
+		- mode of activity
+			- any activity using large muscle groups that can be maintained continuously over time
+	- Muscle plasticity - capacity for adaptive change. Characterized by altered gene expression following a repeated stimulus such as occurs with endurance training.
+	- When training is stopped
+		- due to illness, injury or lack of motivation
+		- reversibility principle - body returns to baseline or pre-training state
+		- during illness or injury, elite athletes use methods like electrical simulation of muscles, so that they don't lose any adaptations.
+		- during detraining, not all variables decline at same rate
+		- decrease in mitochondria number and size takes weeks
+		- decrease in maximal stroke volume is slower to develop
+		- both of these lead to decrease in maximal oxygen consumption
+- Strength training
+	- Major variables to be considered in optimizing adaptations
+		- frequency
+		- intensity
+		- no. of repetitions per set
+		- no. of sets per session
+	- Repetition maximum (RM) - a maximal force a muscle or muscle group can generate in one lift or repetition.
+	- To maximize strength gains, a higher intensity or percentage of your one repetition maximum should be used with fewer repetitions per set.
+	- Over time as one gets stronger, increase intensity and no. of sets
+	- split routines - specific muscle groups are targeted one day and other muscle groups are trained on separate day
+	- If improving muscular endurance, do more repetitions per set and more sets but at a lower intensity or percentage of your one RM.
+	- When untrained individual starting with strength training, at first, the progress can be felt which is due to neural adaptations; generally peak around eigth to tenth week of training.
+	- After that, any further increases to strength are due to muscle hypertrophy (increase in muscle mass resulting from the incease in cross-sectional area of the muscle).
+	- This will eventually plateau based on your genetic makeup. Frustrating to some individuals; they sometimes take performance enhancing drugs like anabolic steroids to stimulate further increase in muscle mass and strength
+	- Other factors other than genetic makeup
+		- nervous system activation
+		- endocrine influences (testesterone and growth hormone)0
+		- nutritional status and need to remain in positive nitrogen balance; for continued increases in muscle mass
+	- Muscle plasticity
+		- primary signals include amount of tension and degree of muscle stretch.
+	- Reversibility also applies here
+	- Increases in the stores of immediate intramuscular sources for fuel (such as creatine phosphate and glycogen) will allow for the rapid production of ATP for the continued generation of force and power for muscles.
+	- Men typically have greater muscle mass and cross-sectional area; can generate greater maximal force and power
+	- Though there are no differences when it comes to generating force and power in men and women.
+- Nutritional considerations
+	- How much to eat?
+		- endurance athltes wish to remain weight stable
+		- Energy balance equation
+			- calories in - what you eat, what you drink
+			- calories out - body mass (resting energy expenditure), programmed exercise (aerobic and resistance training), fidgeting, physical activity (acitvities of daily living)
+		- Calories in = calories out => energy balance
+		- avoid entering negative energy balance when increasing intensity
+	- What to eat?
+		- 55-60% of calories consumed should come from carbohydrates
+	- When to eat?
+		- consume carbohydrates 1-2 hours immediately post exercise when insulin sensitivity is the greatest; to replenish carbohydrates quickly.
+		- pre-competition meal
+			- consume meal 2-3 hours prior competition - will allow insulin levels to come to normal before competition
+			- light meal; 300-500 calories; high in carbohydrates and low in fat and fiber.
+		- glycogen stores before competition is beneficial; delays fatigue
+		- carbohydrate loading - adjusting one's diet, amount of glycogen stored in muscle can be manipulated
+		- Classic regimen - Before 7 days of competition, do strenuous exhaustive exercise to deplte glycogen stores. This is followed by 3-day diet high in fat and protein and low in carbohydrate to keep muscle glycogen stores low. Switch to very high carbohydrate diet for remaining three days.
+		- Classic regimen not tolerated by athletes - affect mood, training and possible susceptibility to illness.
+		- Modified regimen - decrease training period while increasing carbohydrate uptake upto 70% prior to competition.
+		- Carbohydrate feeding during exercise helps in maintaining blood glucose levels delaying onset of fatigue
+		- Avoid dehydration during exercise
+			- increased sweating and fluid shifts can lead to decrease in plasma volume leading further to decrease in stroke volume, cardiac output and increased heart rate.
+	- To increase muscle mass, rate of protein synthesis must be greater than muscle breakdown.
+	- Heavy resistance training with high protein intake.
+	- ~1.6 gms of protein per kilogram body weight per day is recommended; should be twice the daily uptake.
+	- The rates of protein synthesis are elevated immediately post-exercise. This is likely due to high levels of growth hormone as well as an increase in insulin sensitivity. Thus, ingestion of protein within the first hour following training would elicit an optimal response in protein synthesis.
+	- Eat protien post 1 hour of exercise; leads to optimal response in protein synthesis.
+- Muscle fatigue
+	- Causes of fatigue are event specific.
+	- inability to maintain a given exercise intensity (or power output) resulting in a decrease in work or performace capacity.
+	- Generally, the causes of fatigue are located in peripheral sites beginning with neural muscular junction and beyond.
+	- Type 2x fibres are quick to fatigue.
+	- Type 1 fibres are slow to fatigue as long as there's ample fuel for ATP production.
+	- Cause is mostly due to depletion or accumulation of sub substance or metabolite.
+	- Causes when performing short-term high intensity exercise
+		- depletion of both ATP and Creatine Phosphate stores in muscle
+			- ATP due to mismatch between its utilization and production
+			- Creatine phosphate - rapidly depleted as it is main immediate energy source in muscle for ATP
+		- accumulation of H+ ions or increase in muscle acidity.
+			- high concentration of hydrogen ions can interfere with calcium's role in cross bridge formation and thus tension development in muscle.
+			- will inhibit anaerobic glycolysis
+			- buffering can help to neutralize acidosis
+	- Causes when performing long-term low intensity exercise
+		- decrease in carbohydrate stores (muscle and liver glycogen)
+		- decline in intramuscular calcium levels
+		- accumulation of heat i.e. increase in body and muscle temperature
+			- This added disruption in homeostasis would activate the thermoregulatory responses resulting in a greater percentage of your cardiac output going to the skin for cooling. This will reduce blood flow to the working muscles contributing to a reduction in performance.
+- Causes of Muscle Soreness
+	- during and immediately after exercise
+		- symptoms: localized pain and a burning sensation
+		- due to sustained or prolonged isometric contraction
+		- Blood vessels collapse leading to decrease in O2 delivery which forces the muscles to do anaerobic ATP production which leads to generation of elements causing acidosis. Since pain receptors in the muscles are sensitive to acidosis, there is localized pain. When muscle is free from isometric contraction, the blood flow resumes and takes away the elements causing acidosis thus subsiding pain.
+	- muscle cramps
+		- two theories have emerged:
+			- electrolyte imbalance associated with changes in muscle temperature and dehydration effect electrolytes level such as sodium
+				- ingestion of fluids and salt solutions along with massage and ice packs may assist in recovery
+			- altered neuromuscular control results in increased firing of motor neurons
+				- passive stretching is most effective treatment in releasing cramps
+	- delayed onset muscle soreness (DOMS)
+		- common when performing novel type of exercise or returning to exercise after long time
+		- well accepted cause is eccentric muscle contractions
+		- fewer fibres are recuited for equivalent power output during eccentric contractions results in greater force / fiber than other types of contraction
+		- greater mechanical stress is placed uopn muscle damage, tears
+		- eventually get inflammation, tenderness, pain
+		- large intramusclar proteins are found to leak into the blood; can occur when there is significant damage to muscle cell membranes.
+- Performance enhancing drugs
+	- Ergogenic aid - any substance or technique (other than normal training) designed to enhance / improve performance.
+	- Anabolic steroids
+		 - to increase muscle mass and strength
+		 - to improve physical appearance
+		 - to increase endurance
+		 - boost sporting performance
+		 - treat hormones problems
+		 - when coupled with heavy resistance training with a high protein diet can be very effective
+		 - Similar in structure to testosterone. Attempts to maximize the anabolic or muscle building effects of testosterone while minimizing the androgenic effects which produce the secondary male characteristics such as increase in facial hair and deepening of voice.
+		 - can be administered both orally or injected in muscle of choice
+		 - stacking or mixing of anabolic steroids can sometimes produce added results
+		 - pyramiding - athletes graudally increase dose and frequency of steroid use reaching a peak amount. This is followed by tapering period where dose is slowly reduced with the hope of minimizing negative side effects associated with prolonged steroid use.
+		 - anabolic steroid enters through the cell membrane where it combines with its specific receptor which then enters the nucleus of muscle altering the gene exerting its effect on production of new muscle tissue
+		 - side effects - brain and liver cancer, heart and kidney disease, depression, violent behavior
+		 - should be avoided at all costs
+	- Growth hormone
+		- not much effective, has side effects and can be expensive
+	- Creatine
+		- increase in concentration of creatine phosphate in skeletal muscle
+		- delays onset of fatigue
+		- contributes to greater overload stimulus and subsequent training adaptations
+		- done in two phases
+			- initial loading with higher doses of creatine
+			- maintenance with continued lower dosed of creatine
+	- Blood doping
+		- If the sport / event requires exercising close to VO2max (where the rate of oxygen utilization could potentially be a limiting factor) then artificially increasing one's oxygen carrying capacity may improve performace.
+		- increase in red blood cells (RBC) concentration and volume this will lead to increase in O2 carrying capacity which will ultimately lead to increased cardiac output, VO2max and thus, performance
+		- Techniques
+			- red blood cell re-infusion
+			- chronic hypoxic exposure (high altitude)
+			- inject erythropoietin (EPO - produced by kidneys that stimulated RBC production in bone marrow) - risky!
+				- care must be taken to not make blood too thick or viscious
+				- risk of increasing blood clots or pulmonary emboli
+				- increased risk of deaths
+	- Caffeine
+		- directly stimulates central nervous system mimicking the actions of sympathetic nervous system
+		- increased mental awareness, increased fat mobilization and utilization and delayed onset of fatigue
+		- improving endurance times and muscle force
+	- Buffer loading
+		- artificially boost acid buffering capacity prior exercise
+		- for short term high intensity exercise
+		- delays onset of fatigue
